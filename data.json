@@ -1,5 +1,13 @@
 {
-    
+  "Pelicula Banner": [
+    {
+        "nombre": "Owari no seraph",
+        "Categoria": "+15",
+        "Autor": " Takaya Kagami, Yamato Yamamoto, Daisuke Furuya",
+        "Genero": "Acción, fantasía oscura, sobrenatural" 
+       
+    }
+  ],  
 "Recomendaciones": [
    {
        "nombre": "Attack on Titan",
@@ -74,20 +82,63 @@
 ],
 
 "Tendencias": [
-   {
-       "nombre": "firulais",
-       "edad": 5,
-       "raza": "pastor aleman"
-   },
-   {
-       "nombre": "firulais",
-       "edad": 5,
-       "raza": "pastor aleman"
-   },
-   {
-       "nombre": "firulais",
-       "edad": 5,
-       "raza": "pastor aleman"
-   }
-]}
+    {
+        "nombre": "Demon Slayer",
+        "Categoria": "+12",
+        "Autor": "Koyoharu Gotouge",
+        "Genero": "Acción, aventura, comedia, drama, fantasía oscura, histórico, sobrenatural" 
+       
+    },
+    {
+     "nombre": "Drangon Ball",
+     "Categoria": "+13",
+     "Autor": "Aidairo",
+     "Genero": "Anime, Aventura, Género fantástico" 
+    
+ },
+ {
+     "nombre": "LOVE ALARM",
+     "Categoria": "+12",
+     "Autor": "Lee Na-jung (1) Kim Jin-woo (2)",
+     "Genero": "Romance Drama" 
+    
+ },
+ {
+     "nombre": "inside job",
+     "Categoria": "+15",
+     "Autor": "Takeuchi, Alex hirsch",
+     "Genero": "Comedia Ciencia ficción Sátira Humor negro" 
+    
+ },
+ 
+ {
+     "nombre": "Nimona",
+     "Categoria": "+12",
+     "Autor": "Stevenson, Noell",
+     "Genero": "Historieta, Novela gráfica, Novela, Cómic, Literatura fantástica" 
+    
+ },
+ {
+    "nombre": "Un amor tan hermoso",
+    "Categoria": "+10",
+    "Autor": "Kakao M",
+    "Genero": "Drama, Adolescencia, Misterio, Ficción sobrenatural, Terror, Sobrenatural, Fantasía oscura" 
+   
+},
+ {
+     "nombre": "Yo soy Betty, La fea",
+     "Categoria": "+12",
+     "Autor": "Fernando Gaitán",
+     "Genero": "Comedia romantica" 
+    
+ },
+ {
+     "nombre": "Zeke and Luther",
+     "Categoria": "+13",
+     "Autor": "Matt Dearborn Tom Burkhard",
+     "Genero": "Comedia de situación" 
+    
+ }  
+]
+}
  
