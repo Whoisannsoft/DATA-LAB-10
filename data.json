@@ -1,0 +1,93 @@
+{
+    
+"Recomendaciones": [
+   {
+       "nombre": "Attack on Titan",
+       "Categoria": "+15",
+       "Autor": "Hajime Isayama",
+       "Genero": "Novela Grafica,Terror,Ficcion de aventuras" 
+      
+   },
+   {
+    "nombre": "Jibaku Shōnen Hanako-kun",
+    "Categoria": "+12",
+    "Autor": "Aidairo",
+    "Genero": "Comedia romántica, sobrenatural Shonen" 
+   
+},
+{
+    "nombre": "Lupin",
+    "Categoria": "+16",
+    "Autor": "George Kay y François Uzan",
+    "Genero": "Accion,Thriller,Misterio" 
+   
+},
+{
+    "nombre": "Lucifer",
+    "Categoria": "+18",
+    "Autor": "Tom Kapino",
+    "Genero": " Policía procesal, Fantasía urbana, Película de misterio" 
+   
+},
+{
+    "nombre": "Chilling Adventures of Sabrina ",
+    "Categoria": "+15",
+    "Autor": "Roberto Aguirre-Sacasa",
+    "Genero": "Drama, Adolescencia, Misterio, Ficción sobrenatural, Terror, Sobrenatural, Fantasía oscura" 
+   
+},
+{
+    "nombre": "Nimona",
+    "Categoria": "+12",
+    "Autor": "Stevenson, Noell",
+    "Genero": "Historieta, Novela gráfica, Novela, Cómic, Literatura fantástica" 
+   
+},
+{
+    "nombre": "ARCANE",
+    "Categoria": "+12",
+    "Autor": "Christian Linke",
+    "Genero": " Steampunk, Drama, Ficción de aventuras, Acción, Ciencia ficción fantástica" 
+   
+},
+{
+    "nombre": "NORAGAMI",
+    "Categoria": "+12",
+    "Autor": "Adachitoka",
+    "Genero": "Acción, comedia, sobrenatural,fantasía urbana" 
+   
+},
+{
+    "nombre": "Danganronpa",
+    "Categoria": "+15",
+    "Autor": "Kazutaka Kodaka",
+    "Genero": "Novela visual, acción y aventura, misterio, terror psicológico" 
+   
+},
+{
+    "nombre": "El conjuro",
+    "Categoria": "+15",
+    "Autor": "James Wan, Chad Hayes, Carey Hayes",
+    "Genero": "Basada en hechos reales" 
+   
+}
+],
+
+"Tendencias": [
+   {
+       "nombre": "firulais",
+       "edad": 5,
+       "raza": "pastor aleman"
+   },
+   {
+       "nombre": "firulais",
+       "edad": 5,
+       "raza": "pastor aleman"
+   },
+   {
+       "nombre": "firulais",
+       "edad": 5,
+       "raza": "pastor aleman"
+   }
+]}
+ 
